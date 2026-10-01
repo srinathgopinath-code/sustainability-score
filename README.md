@@ -52,6 +52,7 @@ The availability and depth of each analysis depend on the implemented rules and 
 Clone the repository:
 
 git clone https://github.com/srinathgopinath-code/sustainability-score.git
+
 cd sustainability score
 
 Install the project in editable mode, following the repository's dependency instructions:
